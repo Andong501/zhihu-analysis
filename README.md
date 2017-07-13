@@ -14,6 +14,5 @@
 ### 2.zhihu_analysis_v1.0  知乎数据分析 v1.0
 ####     * zhihu_analysis_v1.0.py 知乎数据分析程序
 ####     * zhihu_data_v1.0.csv  爬虫收集的知乎用户数据
-####     * introduction.ipynb  知乎数据分析报告
-[快速查看](https://nbviewer.jupyter.org/github/Andong501/zhihu-analysis/blob/master/Introduction.ipynb)
+####     * introduction.ipynb  知乎数据分析报告  [快速查看](https://nbviewer.jupyter.org/github/Andong501/zhihu-analysis/blob/master/Introduction.ipynb)
 ### To be continued...
