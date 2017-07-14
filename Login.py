@@ -8,7 +8,7 @@ import time
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36',
            'Proxy-Authorization': 'Basic SE83MTA2UzAxODFOMTJLRDpBN0VCQzIxRjlGMkNBQ0RG'
-    }
+    } #add your own proxy authorization
 
 def see_captcha(data):
     with open('captcha.png','wb') as f:
